@@ -4,6 +4,14 @@
     padding: 0;
 }
 
+.recipe-bg1 {
+    background-image: url("./Img/chicken-tikka-masala-bg.jpg");
+    background-size: contain;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
 body{
 
 }
