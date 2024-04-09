@@ -13,8 +13,8 @@
 }
 
 .recipe-bg2 {
-    background-image: url("./Img/chicken-tikka-masala-bg.jpg");
-    background-size: contain;
+    background-image: url("./Img/rabbit-bg.jpg");
+    background-size: cover;
     height: 800px;
     background-repeat: no-repeat;
     background-position: right;
