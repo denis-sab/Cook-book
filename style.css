@@ -47,6 +47,9 @@ main{
 
 
 /* Recepies  */
+.checked {
+    color: orange;
+}
 
 /* End Recepies */
 
