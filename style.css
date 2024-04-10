@@ -12,14 +12,18 @@
     background-position: right;
 }
 
-body{
+.recipe-bg2 {
+    background-image: url("./Img/stewfinal.jpg");
+    background-size: contain;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-position: right;
 
-}
 
 
-header{
 
-}
+
+
 
 /* Nav */
 
@@ -28,9 +32,7 @@ header{
 
 /* End Nav */
 
-main{
 
-}
 
 
 /* Recepies of the Day */
@@ -43,32 +45,4 @@ main{
     color: orange;
 }
 
-/* End Recepies */
-
-
-/* We love Eat */
-
-/* End We love Eat */
-
-
-/* Our newest Recepie */
-
-/* End Our newes Recepie */
-
-
-/* About us */
-
-/* End About us */
-
-
-/* Newsletter */
-
-/* End Newsletter */
-
-footer{
-
 }
-
-/* Contact */
-
-/* End Contact */
