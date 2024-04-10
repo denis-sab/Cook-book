@@ -4,14 +4,26 @@
     padding: 0;
 }
 
-body{
-
+.recipe-bg1 {
+    background-image: url("./Img/chicken-tikka-masala-bg.jpg");
+    background-size: contain;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-position: right;
 }
 
+.recipe-bg2 {
+    background-image: url("./Img/stewfinal.jpg");
+    background-size: contain;
+    height: 800px;
+    background-repeat: no-repeat;
+    background-position: right;
 
-header{
 
-}
+
+
+
+
 
 /* Nav */
 
@@ -20,9 +32,7 @@ header{
 
 /* End Nav */
 
-main{
 
-}
 
 
 /* Recepies of the Day */
@@ -31,33 +41,8 @@ main{
 
 
 /* Recepies  */
-
-/* End Recepies */
-
-
-/* We love Eat */
-
-/* End We love Eat */
-
-
-/* Our newest Recepie */
-
-/* End Our newes Recepie */
-
-
-/* About us */
-
-/* End About us */
-
-
-/* Newsletter */
-
-/* End Newsletter */
-
-footer{
-
+.checked {
+    color: orange;
 }
 
-/* Contact */
-
-/* End Contact */
+}
