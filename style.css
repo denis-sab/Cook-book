@@ -13,8 +13,8 @@
 }
 
 .recipe-bg2 {
-    background-image: url("./Img/rabbit-bg.jpg");
-    background-size: cover;
+    background-image: url("./Img/stewfinal.jpg");
+    background-size: contain;
     height: 800px;
     background-repeat: no-repeat;
     background-position: right;
